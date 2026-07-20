@@ -5,7 +5,10 @@ import Conditional3 from './components/Conditional3'
 import Props_ex from './components/Props_ex'
 import UseState_ex1 from './components/UseState_ex1'
 import UseState_ex2 from './components/UseState_ex2'
+import UseState_ex3 from './components/UseState_ex3'
 import ListRendering from './components/ListRendering'
+import FormHandling from './components/FormHandling'
+import UseEffect_ex1 from './components/UseEffect_ex1'
 
 const App = () => {
   return (
@@ -18,6 +21,9 @@ const App = () => {
       <UseState_ex1 />
       <UseState_ex2 />
       <ListRendering />
+      <UseState_ex3 />
+      <FormHandling />
+      <UseEffect_ex1 />
     </div>
   )
 }

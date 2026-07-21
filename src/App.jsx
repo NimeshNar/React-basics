@@ -9,6 +9,9 @@ import UseState_ex3 from './components/UseState_ex3'
 import ListRendering from './components/ListRendering'
 import FormHandling from './components/FormHandling'
 import UseEffect_ex1 from './components/UseEffect_ex1'
+import FetchMultiPost from './components/FetchMultiPost'
+import FetchSinglePost from './components/FetchSinglePost'
+import UseRed_ex from './components/UseRed_ex'
 
 const App = () => {
   return (
@@ -24,6 +27,9 @@ const App = () => {
       <UseState_ex3 />
       <FormHandling />
       <UseEffect_ex1 />
+      <FetchMultiPost />
+      <FetchSinglePost />
+      <UseRed_ex />
     </div>
   )
 }

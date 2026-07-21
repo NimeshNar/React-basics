@@ -14,4 +14,11 @@
 
 ## FormHandling
 
-![formhandlinf](./Screenshot/formhandling.png)
+![formhandling](./Screenshot/formhandling.png)
+
+---
+
+## FetchPost and Reducer
+
+![fetchPost_reducer](./Screenshot/fetchPost_reducer.png)
+
